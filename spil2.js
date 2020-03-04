@@ -1,4 +1,5 @@
 total=0
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 function spil() {
   ok = true
   while(ok == true) {

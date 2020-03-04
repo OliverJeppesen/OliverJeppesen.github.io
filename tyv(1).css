@@ -1,0 +1,14 @@
+body      {background-color: green;
+           color: black;
+          }
+
+td.hjul   {background-color: white;
+           text-align: center;
+          }
+
+td.start  {background-color: grey;
+           text-align: center;
+          }
+
+body {background-image: url("/Users/oliverjeppesen/Documents/Informatik/slotmachine.jpg");
+}

@@ -56,6 +56,6 @@ function spil() {
       terning2.src = 'sekser.gif'
     }
 total+=gevinst
-    ok = confirm('Din gevinst er '+gevinst+' kr og din total er '+total+'.\n Forts�t?')
+    ok = confirm('Din gevinst er '+gevinst+' kr og din total er '+total+'.\n Fortsæt?')
     }
   }
